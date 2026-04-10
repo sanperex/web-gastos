@@ -151,7 +151,7 @@ export function Home() {
                 )}
                 <Button
                   component="a"
-                  href="https://github.com/sanperex"
+                  href="https://github.com/sanperex/web-gastos"
                   target="_blank"
                   rel="noopener noreferrer"
                   startIcon={<GitHubIcon />}

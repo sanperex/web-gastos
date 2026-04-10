@@ -1,0 +1,32 @@
+.app-shell {
+  position: relative;
+  min-height: 100vh;
+}
+
+.app-shell::before,
+.app-shell::after {
+  content: '';
+  position: fixed;
+  inset: auto;
+  border-radius: 999px;
+  pointer-events: none;
+  filter: blur(90px);
+  opacity: 0.45;
+  z-index: 0;
+}
+
+.app-shell::before {
+  top: 4rem;
+  left: -6rem;
+  width: 18rem;
+  height: 18rem;
+  background: rgba(73, 227, 206, 0.28);
+}
+
+.app-shell::after {
+  right: -4rem;
+  bottom: 8rem;
+  width: 22rem;
+  height: 22rem;
+  background: rgba(255, 145, 77, 0.18);
+}

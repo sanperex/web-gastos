@@ -1,6 +1,6 @@
 # Mis Gastos App 💰
 
-**Mis Gastos App** es una aplicación web full-stack diseñada para ayudarte a controlar tus finanzas personales de manera sencilla y rápida. Permite gestionar tus ingresos, gastos y deudas, ofreciendo además una integración divertida con una API externa para buscar personajes de televisión.
+**Mis Gastos App** es una aplicación web full-stack diseñada para ayudarte a controlar tus finanzas personales de manera sencilla y rápida. Permite gestionar tus ingresos, gastos y deudas, ofreciendo además una integración divertida con una API externa para buscar personajes de Ricky and Morty.
 
 ![Screenshot del Crud](https://github.com/user-attachments/assets/4692d619-d424-4081-beb0-c911a49d561e)
 ![Screenshot de la api](https://github.com/user-attachments/assets/82c4a0f6-6e88-4332-baae-f2c489db3fcd)
@@ -105,9 +105,9 @@ El servidor backend correrá en el puerto configurado (usualmente `http://localh
 
 ## 🧔 Datos del Autor
 
-- **Nombre**: Santiago Pérez
+- **Nombre**: Santiago Pérez Calle
 - **GitHub**: [@sanperex](https://github.com/sanperex)
-- **Rol**: Full Stack Developer Junior
+- **Rol**: Aprendiz de programacion
 - **Descripción**: Apasionado por crear soluciones web limpias, modernas y funcionales.
 
 ---
